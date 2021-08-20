@@ -1,19 +1,14 @@
 # 指南
 
-## page one
+## Home Page
 
-## test
++ Home Chapter one
++ Home Chapter two
++ Home Chapter three
 
-+ 你好
-+ 测试标题
-+ ksdjfsdk
+[Go Home](./home.md)
 
-- skf
-- sdsdf
-- nihao
-
-
-*sdfkdsf*
+## Test Page
 
 **nihao**
 
