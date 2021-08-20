@@ -1,0 +1,13 @@
+{
+  "name": "syfcblog",
+  "version": "1.0.0",
+  "author": "hweil <520syfc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.24"
+  }
+}
